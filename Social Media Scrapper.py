@@ -15,7 +15,7 @@
 import instaloader
 
 # Define the username you want to scrape
-username = "guru.p05"
+username = "username"
 
 # Create an instance of the Instaloader class
 L = instaloader.Instaloader()
